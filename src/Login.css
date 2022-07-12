@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.google, .github, .twitter, .facebook {
+  border-radius: 16px;
+  border: 1px solid white;
+  font-family: 'Abel', sans-serif;
+  font-size: 25px;
+  color: white;
+}
+
+.google {
+  background-color: #E95F2C;
+}
+
+.google:hover {
+  background-color: #D65424;
+}
+
+.github {
+  background: #3B3938;
+}
+
+.github:hover {
+  background: #111111;
+}
+
+.twitter {
+  background: #03B5F0;
+}
+
+.twitter:hover {
+  background: #00A1D6;
+}
+
+.facebook {
+  background: #206FB5;
+}
+
+.facebook:hover {
+  background: #1D64A2;
+}
+
+#email, #pass {
+  outline: none;
+  border-radius: 16px;
+  border: 1px solid white;
+  font-family: 'Abel', sans-serif;
+  font-size: 15px;
+  background-color: #EBEDEE;
+}
